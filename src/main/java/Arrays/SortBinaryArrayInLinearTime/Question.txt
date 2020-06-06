@@ -1,0 +1,7 @@
+Sort a Binary array in linear time
+
+Given a binary array, sort it in o(n) time complexity and contant space complexity.
+
+Example:
+input: {1,0,1,0,1,0,1,0}
+output:{0,0,0,0,1,1,1,1}
